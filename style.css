@@ -3,3 +3,51 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+nav{
+  text-align: center;
+  padding: 0px 10px 0px 10px;
+
+}
+.main{
+
+}
+.image{
+  width: 900px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  overflow: hidden;
+}
+.grey{
+  background-color: lightgrey;
+}
+
+figcaption{
+  font-size: 18px;
+  text-align: center;
+}
+
+
+#details{
+  text-align: center;
+  display: block;
+  float: left;
+  width: 25%;
+   background-color: red;
+
+}
+.lorem{
+  text-align: center;
+  display: block;
+  width: 800px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+  
